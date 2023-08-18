@@ -1,0 +1,6 @@
+{
+    "json.format.enable": true,
+    "javascript.format.enable": true,
+    "javascript.format.semicolons": "insert",
+    "typescript.format.semicolons": "insert",
+}

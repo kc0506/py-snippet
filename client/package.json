@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/chrome": "^0.0.243",
+    "axios": "^1.4.0",
+    "chrome-types": "^0.1.222",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "ts-loader": "^9.4.4"
+  },
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "build-watch": "webpack --config webpack.config.js --watch"
+  },
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3",
+    "typescript": "*",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
