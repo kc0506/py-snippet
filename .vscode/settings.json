@@ -3,4 +3,7 @@
     "javascript.format.enable": true,
     "javascript.format.semicolons": "insert",
     "typescript.format.semicolons": "insert",
+    "code-runner.executorMap": {
+        "python": "python $fileDirName",
+    }
 }
